@@ -15,9 +15,9 @@
         
         a) Presiona "1" para visualizar el pez.
         b) Presiona "2" para visualizar el barco.
-        c) Presiona "3" para visualizar el vela.
+        c) Presiona "3" para visualizar la vela.
         d) Presiona "4" para visualizar el cisne.
-        e) Presiona "5" para visualizar el silla.
+        e) Presiona "5" para visualizar la silla.
   **Nota:**: El nivel se completa cuando tapas la silueta con las figuras, presionar "c" para comprobar.
   
 4). Presiona "G" para visualizar/ esconder las celdas.
